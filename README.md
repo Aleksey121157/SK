@@ -1,2 +1,0 @@
-# SK
-Files for study
